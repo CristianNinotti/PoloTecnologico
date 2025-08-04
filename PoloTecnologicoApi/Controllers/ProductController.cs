@@ -9,7 +9,7 @@ namespace Web.Controllers
     [Route("api/[controller]")]
     [Authorize]
     [ApiController]
-    public class ProductController : Controller
+    public class ProductController : ControllerBase
     {
         private readonly IProductService _productService;
 
@@ -27,7 +27,7 @@ namespace Web.Controllers
 
         // GET /api/product/{id}
         [HttpGet("{id}")]
-        public async Task<ActionResult<ProductResponseDto>> Get([FromQuery] int id)
+        public async Task<ActionResult<ProductResponseDto>> Get(int id)
         {
             ProductResponseDto product = await _productService.GetByIdAsync(id);
             if (product == null)

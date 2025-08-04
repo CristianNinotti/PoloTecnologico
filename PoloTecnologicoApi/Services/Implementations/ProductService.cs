@@ -31,15 +31,16 @@ namespace Web.Services.Implementations
             return await Task.FromResult(nuevoProducto);
         }
 
+        public async Task<IEnumerable<ProductResponseDto>> GetAllAsync()
+        {
+            return await Task.FromResult(_productos);
+        }
         public async Task<ProductResponseDto?> GetByIdAsync(int id)
         {
             var producto = _productos.FirstOrDefault(p => p.Id == id);
             return await Task.FromResult(producto);
         }
 
-        public async Task<IEnumerable<ProductResponseDto>> GetAllAsync()
-        {
-            return await Task.FromResult(_productos);
-        }
+
     }
 }

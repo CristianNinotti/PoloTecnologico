@@ -11,8 +11,11 @@ namespace Web.Extensions
     {
         public static IServiceCollection AddServices(this IServiceCollection services)
         {
-            services.AddScoped<IProductService, ProductService>();
             services.AddScoped<ITokenService, TokenService>();
+
+            services.AddScoped<IProductService, ProductService>();
+            services.AddScoped<ICategoryService, CategoryService>();
+
 
             return services;
         }
@@ -22,6 +25,7 @@ namespace Web.Extensions
             services.AddFluentValidationAutoValidation();
 
             services.AddScoped<IValidator<ProductRequestDto>, ProductRequestDtoValidator>();
+            services.AddScoped<IValidator<CategoryRequestDto>, CategoryRequestDtoValidator>();
 
             return services;
         }

@@ -3,32 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\crist\\Desktop\\PoloTecnologico\\PoloTecnologicoApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7CACA322-5815-49DA-9D7D-0C797551E18B}|Web.csproj|c:\\users\\crist\\desktop\\polotecnologico\\polotecnologicoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CACA322-5815-49DA-9D7D-0C797551E18B}|Web.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7CACA322-5815-49DA-9D7D-0C797551E18B}|Web.csproj|c:\\users\\crist\\desktop\\polotecnologico\\polotecnologicoapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CACA322-5815-49DA-9D7D-0C797551E18B}|Web.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CACA322-5815-49DA-9D7D-0C797551E18B}|Web.csproj|c:\\users\\crist\\desktop\\polotecnologico\\polotecnologicoapi\\extensions\\jwtconfigurationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CACA322-5815-49DA-9D7D-0C797551E18B}|Web.csproj|solutionrelative:extensions\\jwtconfigurationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7CACA322-5815-49DA-9D7D-0C797551E18B}|Web.csproj|c:\\users\\crist\\desktop\\polotecnologico\\polotecnologicoapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CACA322-5815-49DA-9D7D-0C797551E18B}|Web.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CACA322-5815-49DA-9D7D-0C797551E18B}|Web.csproj|c:\\users\\crist\\desktop\\polotecnologico\\polotecnologicoapi\\models\\dtos\\response\\productresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CACA322-5815-49DA-9D7D-0C797551E18B}|Web.csproj|solutionrelative:models\\dtos\\response\\productresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CACA322-5815-49DA-9D7D-0C797551E18B}|Web.csproj|c:\\users\\crist\\desktop\\polotecnologico\\polotecnologicoapi\\models\\dtos\\request\\productrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CACA322-5815-49DA-9D7D-0C797551E18B}|Web.csproj|solutionrelative:models\\dtos\\request\\productrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CACA322-5815-49DA-9D7D-0C797551E18B}|Web.csproj|c:\\users\\crist\\desktop\\polotecnologico\\polotecnologicoapi\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CACA322-5815-49DA-9D7D-0C797551E18B}|Web.csproj|solutionrelative:entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CACA322-5815-49DA-9D7D-0C797551E18B}|Web.csproj|c:\\users\\crist\\desktop\\polotecnologico\\polotecnologicoapi\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CACA322-5815-49DA-9D7D-0C797551E18B}|Web.csproj|solutionrelative:entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7CACA322-5815-49DA-9D7D-0C797551E18B}|Web.csproj|c:\\users\\crist\\desktop\\polotecnologico\\polotecnologicoapi\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7CACA322-5815-49DA-9D7D-0C797551E18B}|Web.csproj|solutionrelative:extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CACA322-5815-49DA-9D7D-0C797551E18B}|Web.csproj|c:\\users\\crist\\desktop\\polotecnologico\\polotecnologicoapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CACA322-5815-49DA-9D7D-0C797551E18B}|Web.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7CACA322-5815-49DA-9D7D-0C797551E18B}|Web.csproj|c:\\users\\crist\\desktop\\polotecnologico\\polotecnologicoapi\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CACA322-5815-49DA-9D7D-0C797551E18B}|Web.csproj|solutionrelative:services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CACA322-5815-49DA-9D7D-0C797551E18B}|Web.csproj|c:\\users\\crist\\desktop\\polotecnologico\\polotecnologicoapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CACA322-5815-49DA-9D7D-0C797551E18B}|Web.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7CACA322-5815-49DA-9D7D-0C797551E18B}|Web.csproj|c:\\users\\crist\\desktop\\polotecnologico\\polotecnologicoapi\\services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CACA322-5815-49DA-9D7D-0C797551E18B}|Web.csproj|solutionrelative:services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CACA322-5815-49DA-9D7D-0C797551E18B}|Web.csproj|c:\\users\\crist\\desktop\\polotecnologico\\polotecnologicoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7CACA322-5815-49DA-9D7D-0C797551E18B}|Web.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{7CACA322-5815-49DA-9D7D-0C797551E18B}|Web.csproj|c:\\users\\crist\\desktop\\polotecnologico\\polotecnologicoapi\\models\\dtos\\response\\categoryresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CACA322-5815-49DA-9D7D-0C797551E18B}|Web.csproj|solutionrelative:models\\dtos\\response\\categoryresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CACA322-5815-49DA-9D7D-0C797551E18B}|Web.csproj|c:\\users\\crist\\desktop\\polotecnologico\\polotecnologicoapi\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CACA322-5815-49DA-9D7D-0C797551E18B}|Web.csproj|solutionrelative:services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CACA322-5815-49DA-9D7D-0C797551E18B}|Web.csproj|c:\\users\\crist\\desktop\\polotecnologico\\polotecnologicoapi\\models\\dtos\\validators\\categoryrequestdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CACA322-5815-49DA-9D7D-0C797551E18B}|Web.csproj|solutionrelative:models\\dtos\\validators\\categoryrequestdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7CACA322-5815-49DA-9D7D-0C797551E18B}|Web.csproj|c:\\users\\crist\\desktop\\polotecnologico\\polotecnologicoapi\\models\\dtos\\validators\\productrequestdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7CACA322-5815-49DA-9D7D-0C797551E18B}|Web.csproj|solutionrelative:models\\dtos\\validators\\productrequestdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CACA322-5815-49DA-9D7D-0C797551E18B}|Web.csproj|c:\\users\\crist\\desktop\\polotecnologico\\polotecnologicoapi\\models\\dtos\\request\\categoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CACA322-5815-49DA-9D7D-0C797551E18B}|Web.csproj|solutionrelative:models\\dtos\\request\\categoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,92 +71,183 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\PoloTecnologico\\PoloTecnologicoApi\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\crist\\Desktop\\PoloTecnologico\\PoloTecnologicoApi\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T01:29:30.964Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\crist\\Desktop\\PoloTecnologico\\PoloTecnologicoApi\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\crist\\Desktop\\PoloTecnologico\\PoloTecnologicoApi\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAwwCwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T01:22:26.49Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\PoloTecnologico\\PoloTecnologicoApi\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\crist\\Desktop\\PoloTecnologico\\PoloTecnologicoApi\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-31T01:20:28.625Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\PoloTecnologico\\PoloTecnologicoApi\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\crist\\Desktop\\PoloTecnologico\\PoloTecnologicoApi\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T01:11:23.514Z",
+              "WhenOpened": "2025-08-04T20:55:40.767Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "JwtConfigurationExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\PoloTecnologico\\PoloTecnologicoApi\\Extensions\\JwtConfigurationExtensions.cs",
-              "RelativeDocumentMoniker": "Extensions\\JwtConfigurationExtensions.cs",
-              "ToolTip": "C:\\Users\\crist\\Desktop\\PoloTecnologico\\PoloTecnologicoApi\\Extensions\\JwtConfigurationExtensions.cs",
-              "RelativeToolTip": "Extensions\\JwtConfigurationExtensions.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAQwEoAAAAWAAAAAAAAAA==",
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\PoloTecnologico\\PoloTecnologicoApi\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\PoloTecnologico\\PoloTecnologicoApi\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswCIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T01:10:59.65Z",
+              "WhenOpened": "2025-08-04T20:55:35.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\PoloTecnologico\\PoloTecnologicoApi\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\PoloTecnologico\\PoloTecnologicoApi\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T20:48:44.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\PoloTecnologico\\PoloTecnologicoApi\\Services\\Implementations\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\PoloTecnologico\\PoloTecnologicoApi\\Services\\Implementations\\CategoryService.cs",
+              "RelativeToolTip": "Services\\Implementations\\CategoryService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T20:48:01.078Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ProductRequestDtoValidator.cs",
-              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\PoloTecnologico\\PoloTecnologicoApi\\Models\\Dtos\\Validators\\ProductRequestDtoValidator.cs",
-              "RelativeDocumentMoniker": "Models\\Dtos\\Validators\\ProductRequestDtoValidator.cs",
-              "ToolTip": "C:\\Users\\crist\\Desktop\\PoloTecnologico\\PoloTecnologicoApi\\Models\\Dtos\\Validators\\ProductRequestDtoValidator.cs",
-              "RelativeToolTip": "Models\\Dtos\\Validators\\ProductRequestDtoValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T01:10:33.146Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "ServiceCollectionExtensions.cs",
               "DocumentMoniker": "C:\\Users\\crist\\Desktop\\PoloTecnologico\\PoloTecnologicoApi\\Extensions\\ServiceCollectionExtensions.cs",
               "RelativeDocumentMoniker": "Extensions\\ServiceCollectionExtensions.cs",
               "ToolTip": "C:\\Users\\crist\\Desktop\\PoloTecnologico\\PoloTecnologicoApi\\Extensions\\ServiceCollectionExtensions.cs",
               "RelativeToolTip": "Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T20:46:44.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryRequestDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\PoloTecnologico\\PoloTecnologicoApi\\Models\\Dtos\\Validators\\CategoryRequestDtoValidator.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\Validators\\CategoryRequestDtoValidator.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\PoloTecnologico\\PoloTecnologicoApi\\Models\\Dtos\\Validators\\CategoryRequestDtoValidator.cs",
+              "RelativeToolTip": "Models\\Dtos\\Validators\\CategoryRequestDtoValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T01:06:35.693Z",
+              "WhenOpened": "2025-08-04T20:41:50.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\PoloTecnologico\\PoloTecnologicoApi\\Models\\Dtos\\Response\\CategoryResponseDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\Response\\CategoryResponseDto.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\PoloTecnologico\\PoloTecnologicoApi\\Models\\Dtos\\Response\\CategoryResponseDto.cs",
+              "RelativeToolTip": "Models\\Dtos\\Response\\CategoryResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T20:35:40.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\PoloTecnologico\\PoloTecnologicoApi\\Models\\Dtos\\Request\\CategoryRequestDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\Request\\CategoryRequestDto.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\PoloTecnologico\\PoloTecnologicoApi\\Models\\Dtos\\Request\\CategoryRequestDto.cs",
+              "RelativeToolTip": "Models\\Dtos\\Request\\CategoryRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T20:35:19.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\PoloTecnologico\\PoloTecnologicoApi\\Services\\Implementations\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\ProductService.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\PoloTecnologico\\PoloTecnologicoApi\\Services\\Implementations\\ProductService.cs",
+              "RelativeToolTip": "Services\\Implementations\\ProductService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T20:30:38.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductRequestDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\PoloTecnologico\\PoloTecnologicoApi\\Models\\Dtos\\Validators\\ProductRequestDtoValidator.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\Validators\\ProductRequestDtoValidator.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\PoloTecnologico\\PoloTecnologicoApi\\Models\\Dtos\\Validators\\ProductRequestDtoValidator.cs",
+              "RelativeToolTip": "Models\\Dtos\\Validators\\ProductRequestDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T20:14:17.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\PoloTecnologico\\PoloTecnologicoApi\\Models\\Dtos\\Response\\ProductResponseDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\Response\\ProductResponseDto.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\PoloTecnologico\\PoloTecnologicoApi\\Models\\Dtos\\Response\\ProductResponseDto.cs",
+              "RelativeToolTip": "Models\\Dtos\\Response\\ProductResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T20:13:44.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\PoloTecnologico\\PoloTecnologicoApi\\Models\\Dtos\\Request\\ProductRequestDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\Request\\ProductRequestDto.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\PoloTecnologico\\PoloTecnologicoApi\\Models\\Dtos\\Request\\ProductRequestDto.cs",
+              "RelativeToolTip": "Models\\Dtos\\Request\\ProductRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T20:13:32.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\PoloTecnologico\\PoloTecnologicoApi\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\PoloTecnologico\\PoloTecnologicoApi\\Entities\\Product.cs",
+              "RelativeToolTip": "Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T20:06:40.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\PoloTecnologico\\PoloTecnologicoApi\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\PoloTecnologico\\PoloTecnologicoApi\\Entities\\Category.cs",
+              "RelativeToolTip": "Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T20:03:07.267Z",
               "EditorCaption": ""
             }
           ]
